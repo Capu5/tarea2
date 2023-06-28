@@ -1,0 +1,13 @@
+#box {
+    background-color: dodgerblue;
+    padding: 10px 10px 10px 10px;
+    border: 5px gray;
+    margin: 40 px;
+    width: 300px;
+}
+#content{
+    background-color: darkseagreen;
+}
+div{
+    color: brown;
+}
