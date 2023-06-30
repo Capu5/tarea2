@@ -49,8 +49,11 @@ p {
     }
 }
 @media (min-width: 768px) and (max-width: 991px) {
-    .box1, .box2, .box3 {
+    .box1, .box2 {
         width: 45%;
+    }
+    .box3 {
+        width: 95%;
     }
 }
 @media (max-width: 767px) {
